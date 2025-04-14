@@ -1,3 +1,2 @@
-# Cyrus C. Joven adding admin, home and profile folders
-# putting the contents of app routings, environments and styles
-# Espinosa added backend
+# Pearl Marie Monceda added _components and account. 
+# This is the frontend portion of the User Management System built with Angular 17. It includes user authentication features such as:Registration, LoginEmail, verification, Password reset
